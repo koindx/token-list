@@ -11,7 +11,7 @@
                 "svg": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.svg"
             },
             "contract_address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
-            "token_website":"https://koinos.io",
+            "token_website": "https://koinos.io",
             "coingecko_id": "",
             "coinmarketcap_id": ""
         },
@@ -25,10 +25,9 @@
                 "svg": ""
             },
             "contract_address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
-            "token_website":"https://koinos.io",
+            "token_website": "https://koinos.io",
             "coingecko_id": "",
             "coinmarketcap_id": ""
-            
         },
         {
             "name": "KoinDX",
@@ -40,10 +39,9 @@
                 "svg": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.svg"
             },
             "contract_address": "18HHisnBQDQ5GJTdaR2h6QPTY42RmZwCS",
-            "token_website":"https://koindx.com",
+            "token_website": "https://koindx.com",
             "coingecko_id": "",
             "coinmarketcap_id": ""
-            
         }
     ]
 }
