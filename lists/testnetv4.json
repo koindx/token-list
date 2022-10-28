@@ -1,0 +1,49 @@
+{
+    "chain_id": "EiDMuepw3KMY6V3xbdkEg2_4BKKl25pvpFzjc_Bb7Ap4SQ==",
+    "assets": [
+        {
+            "name": "tKoin",
+            "symbol": "TKOIN",
+            "description": "Native token of Koinos.",
+            "decimals": "8",
+            "image": {
+                "png": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.png",
+                "svg": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.svg"
+            },
+            "contract_address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
+            "token_website":"https://koinos.io",
+            "coingecko_id": "",
+            "coinmarketcap_id": ""
+        },
+        {
+            "name": "Virtual Hash Power",
+            "symbol": "VHP",
+            "description": "The fuel for producing blocks in Koinos.",
+            "decimals": "8",
+            "image": {
+                "png": "",
+                "svg": ""
+            },
+            "contract_address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
+            "token_website":"https://koinos.io",
+            "coingecko_id": "",
+            "coinmarketcap_id": ""
+            
+        },
+        {
+            "name": "KoinDX",
+            "symbol": "KNDX",
+            "description": "The governance token of KoinDX.",
+            "decimals": "8",
+            "image": {
+                "png": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.png",
+                "svg": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.svg"
+            },
+            "contract_address": "18HHisnBQDQ5GJTdaR2h6QPTY42RmZwCS",
+            "token_website":"https://koindx.com",
+            "coingecko_id": "",
+            "coinmarketcap_id": ""
+            
+        }
+    ]
+}
