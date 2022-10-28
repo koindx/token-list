@@ -18,7 +18,7 @@
         {
             "name": "Virtual Hash Power",
             "symbol": "VHP",
-            "description": "The fuel for producing blocks in Koinos.",
+            "description": "The fuel for producing blocks on Koinos.",
             "decimals": "8",
             "image": {
                 "png": "",
