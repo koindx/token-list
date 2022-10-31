@@ -1,0 +1,21 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "description": "Please create an issue with the help of our template, to apply for a KoinDX token listing.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koindx/token-list.git"
+  },
+  "keywords": [],
+  "author": "ederaleng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koindx/token-list/issues"
+  },
+  "homepage": "https://github.com/koindx/token-list#readme"
+}
