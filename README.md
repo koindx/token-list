@@ -8,6 +8,8 @@ Make sure to provide the following information.
 ```
 Token Name: 
 
+Chains: 
+
 Token Symbol: 
 
 Token Description: 
