@@ -35,8 +35,8 @@
       "description": "The governance token of KoinDX.",
       "decimals": "8",
       "image": {
-          "png": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.png",
-          "svg": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.svg"
+        "png": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.png",
+        "svg": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.svg"
       },
       "contract_address": "18HHisnBQDQ5GJTdaR2h6QPTY42RmZwCS",
       "token_website": "https://koindx.com",
