@@ -19,7 +19,7 @@ async function buildList(network) {
   }
   const parsed = version.split(".");
   const list = {
-    name: "Koindx Labs Default",
+    name: `Koindx token list ${network}`,
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
