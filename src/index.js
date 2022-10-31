@@ -11,8 +11,8 @@ try {
   let nets = [ "mainnet", "testnetv4" ]
   nets.map(async (net) => {
     let tokens = await buildList(net);
-    console.log(tokens)
     let tokenList = JSON.stringify(tokens, null, 2)
+    console.log(`${dirname}/${net}.json`)
     fs.writeFileSync(`${dirname}/${net}.json`, tokenList);
   })
 } catch (error) {
