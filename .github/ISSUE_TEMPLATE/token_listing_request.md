@@ -10,17 +10,17 @@ assignees: ''
 
 Token Name: 
 
+Token Network: 
+
 Token Symbol: 
 
 Token Description: 
 
 Token Decimals: 
 
-Token contract Address: 
+Token Address: 
 
-Token Image svg:
-
-Token Image png:
+Token Logo png:
 
 Token/Project website:
 

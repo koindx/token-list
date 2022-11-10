@@ -6,11 +6,8 @@
       "symbol": "TKOIN",
       "description": "Native token of Koinos.",
       "decimals": "8",
-      "image": {
-          "png": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.png",
-          "svg": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.svg"
-      },
-      "contract_address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
+      "logoURI": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.png",
+      "address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
       "token_website": "https://koinos.io",
       "coingecko_id": "",
       "coinmarketcap_id": ""
@@ -20,11 +17,8 @@
       "symbol": "VHP",
       "description": "The fuel for producing blocks on Koinos.",
       "decimals": "8",
-      "image": {
-          "png": "",
-          "svg": ""
-      },
-      "contract_address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
+      "logoURI": "",
+      "address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
       "token_website": "https://koinos.io",
       "coingecko_id": "",
       "coinmarketcap_id": ""
@@ -34,11 +28,8 @@
       "symbol": "KNDX",
       "description": "The governance token of KoinDX.",
       "decimals": "8",
-      "image": {
-        "png": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.png",
-        "svg": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.svg"
-      },
-      "contract_address": "18HHisnBQDQ5GJTdaR2h6QPTY42RmZwCS",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/master/images/KNDX.png",
+      "address": "18HHisnBQDQ5GJTdaR2h6QPTY42RmZwCS",
       "token_website": "https://koindx.com",
       "coingecko_id": "",
       "coinmarketcap_id": ""
