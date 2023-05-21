@@ -26,3 +26,6 @@ Token Coingecko ID:
 
 Token Coinmarketcap ID
 ```
+
+Official URL
+https://tokens.koindx.com
