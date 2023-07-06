@@ -22,6 +22,17 @@
       "token_website": "https://koinos.io",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Pooled VHP",
+      "symbol": "pVHP",
+      "description": "The token issued by BurnKoin when KOIN or VHP deposits are made into the pool. Upon KOIN/VHP withdrawal, pVHP is burnt. The ratio at which pVHP is issued/redeemed for KOIN increases steadily as the network issues mining rewards.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/lukemwillis/koinos-burn-pool-ui/main/public/apple-touch-icon.png",
+      "address": "1NHReq2apWsQ6UPBjNqcV3ABsj88Ncimiy",
+      "token_website": "https://burnkoin.com",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
