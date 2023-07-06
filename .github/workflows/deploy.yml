@@ -9,9 +9,12 @@ on:
 
 jobs:
   build:
-
-    runs-on: self-hosted
-
+    name: Test Build
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: npm run build
+    - name: Set Node.js 16.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+    - run: yarn build
