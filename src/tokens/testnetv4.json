@@ -33,6 +33,17 @@
       "token_website": "https://koindx.com",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Doubloon",
+      "symbol": "kDBLN",
+      "description": "Doubloon is the official currency of the Serfdom & Sorcery discord game by Royal Reptile Studios.",
+      "decimals": "0",
+      "logoURI": "https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/opidia/EoChZd48WoR5kf8FWz43mG9vtrzt9fceEuLo35e1qc2yug5HSiHbmz9zxV57XxAPAPP.png",
+      "address": "1Noy4JD7F6ByUwMmbKPo1o2JVko9CzB6Eu",
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
