@@ -1,13 +1,13 @@
 {
-  "chainId": "EiDMuepw3KMY6V3xbdkEg2_4BKKl25pvpFzjc_Bb7Ap4SQ==",
+  "chainId": "EiBncD4pKRIQWco_WRqo5Q-xnXR7JuO3PtZv983mKdKHSQ==",
   "tokens": [
     {
-      "name": "tKoin",
+      "name": "Test Koin",
       "symbol": "TKOIN",
       "description": "Native token of Koinos.",
       "decimals": "8",
       "logoURI": "https://raw.githubusercontent.com/koinos/koinos-branding/master/assets/icons/koinos-icon-dark.png",
-      "address": "19JntSm8pSNETT9aHTwAUHC5RMoaSmgZPJ",
+      "address": "1FaSvLjQJsCJKq5ybmGsMMQs8RQYyVv8ju",
       "token_website": "https://koinos.io",
       "coingecko_id": "",
       "coinmarketcap_id": ""
@@ -18,7 +18,7 @@
       "description": "The fuel for producing blocks on Koinos.",
       "decimals": "8",
       "logoURI": "",
-      "address": "1JZqj7dDrK5LzvdJgufYBJNUFo88xBoWC8",
+      "address": "17n12ktwN79sR6ia9DDgCfmw77EgpbTyBi",
       "token_website": "https://koinos.io",
       "coingecko_id": "",
       "coinmarketcap_id": ""
