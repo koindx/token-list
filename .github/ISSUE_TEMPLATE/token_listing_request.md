@@ -8,17 +8,21 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Name: 
+Token Name:
 
-Token Network: 
+Token Network:
 
-Token Symbol: 
+Token Symbol:
 
-Token Description: 
+Token Description:
 
-Token Decimals: 
+Token Decimals:
 
-Token Address: 
+Token Address:
+
+Has Allowances:
+
+Contract Repository:
 
 Token Logo png:
 
@@ -28,3 +32,4 @@ Token Coingecko ID:
 
 Token Coinmarketcap ID
 
+Token Audit:
