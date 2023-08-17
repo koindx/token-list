@@ -48,6 +48,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Kanvas",
+      "symbol": "KAN",
+      "description": "The first collaborative and decentralized canvas, based on the first fee-less smart-contract blockchain.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/testnet/1LeWGhDVD8g5rGCL4aDegEf9fKyTL1KhsS.png",
+      "address": "1LeWGhDVD8g5rGCL4aDegEf9fKyTL1KhsS",
+      "allowance": true,
+      "token_website": "https://kanvas-app.com",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
