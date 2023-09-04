@@ -45,7 +45,7 @@ try {
   fs.writeFileSync(`${dirname}/index.html`, template);
 
   // write tokens
-  let nets = [ "mainnet", "testnetv4" ]
+  let nets = [ "mainnet", "testnetv4", "harbinger" ]
   nets.map(async (net) => {
     let tokens = await buildList(net);
     let tokenList = JSON.stringify(tokens, null, 2)
