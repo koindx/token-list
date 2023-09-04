@@ -14,6 +14,7 @@ async function buildList(network) {
     case "mainnet":
       chain = mainnet.chainId;
       tokens = mainnet.tokens;
+      break;
     case "harbinger":
       chain = harbinger.chainId;
       tokens = harbinger.tokens;
