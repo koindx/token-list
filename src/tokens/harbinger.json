@@ -48,6 +48,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Bitkoin",
+      "symbol": "BTK",
+      "description": "Bitkoin: Pioneering a Crypto Revolution! The first-ever cryptocurrency dropped via NFTs that will be gracefully disabled, ensuring a secure and thrilling entry into the crypto world. Experience Bitkoin – Where Innovation Meets Security! Our groundbreaking crypto is ushered in through NFTs, a novel approach that guarantees peace of mind with automatic NFT deactivation. Unlock Bitkoin, Unlock Possibilities! The future of crypto is here, delivered through NFTs that'll blaze a trail. Get ready for a secure, seamless, and sensational crypto journey like never before.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/harbinger/1F81UPvBW4g2jFLU5VuBvoPeZFFHL5fPqQ.png",
+      "address": "1F81UPvBW4g2jFLU5VuBvoPeZFFHL5fPqQ",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
