@@ -84,6 +84,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Koin Crew Token",
+      "symbol": "KCT",
+      "description": "Koin Crew Token in the official community coin crafted exclusively for the ardent supporters of Koin Crew. This token is not just a digital asset; it symbolizes the unwavering faith and commitment of the Koin Crew community.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1BTQCpospHJRA7VAtZ4wvitdcqYCvkwBCD.png",
+      "address": "1BTQCpospHJRA7VAtZ4wvitdcqYCvkwBCD",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
