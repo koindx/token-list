@@ -38,6 +38,18 @@
       "coinmarketcap_id": ""
     },
     {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "description": "Wrapped Tether USD via chainge finance.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/19WrWze3XAoMa3Mwqys4rJMP6emZX2wfpH.png",
+      "address": "19WrWze3XAoMa3Mwqys4rJMP6emZX2wfpH",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
       "name": "Pooled VHP",
       "symbol": "pVHP",
       "description": "The token issued by BurnKoin when KOIN or VHP deposits are made into the pool. Upon KOIN/VHP withdrawal, pVHP is burnt. The ratio at which pVHP is issued/redeemed for KOIN increases steadily as the network issues mining rewards.",
