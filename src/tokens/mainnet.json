@@ -3,7 +3,7 @@
   "tokens": [
     {
       "name": "Koin",
-      "symbol": "koin",
+      "symbol": "KOIN",
       "description": "Native token of Koinos.",
       "decimals": "8",
       "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/koin.png",
