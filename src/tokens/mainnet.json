@@ -18,7 +18,7 @@
       "symbol": "VHP",
       "description": "The fuel for producing blocks on Koinos.",
       "decimals": "8",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/vhp.png",
       "address": "vhp",
       "allowance": false,
       "token_website": "https://koinos.io",
