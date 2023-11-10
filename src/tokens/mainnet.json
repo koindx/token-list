@@ -30,7 +30,7 @@
       "symbol": "ETH",
       "description": "Wrapped Ethereum via chainge finance.",
       "decimals": "8",
-      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/15VPnHQgm9yTWGuxCmfsPABJYnDNFymkTM.jpg",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/15VPnHQgm9yTWGuxCmfsPABJYnDNFymkTM.png",
       "address": "15VPnHQgm9yTWGuxCmfsPABJYnDNFymkTM",
       "allowance": true,
       "token_website": "https://ethereum.org",
