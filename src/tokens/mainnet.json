@@ -108,6 +108,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "DARE",
+      "symbol": "DRUGS",
+      "description": "D.A.R.E. (DRUGS) is dedicated to spreading comical marketing in the Koinos ecosystem and building community engagement.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1A7ix1dr77wUVD3XtCwbthbysT5LeB1CeG.png",
+      "address": "1A7ix1dr77wUVD3XtCwbthbysT5LeB1CeG",
+      "allowance": true,
+      "token_website": "https://buydrugs.fun",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
