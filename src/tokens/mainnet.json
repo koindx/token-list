@@ -129,7 +129,19 @@
       "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/17t977jJZ7DYKPQsjqtStbpvmde1DditXW.png",
       "address": "17t977jJZ7DYKPQsjqtStbpvmde1DditXW",
       "allowance": true,
-      "token_website": " ipfs://bafkreigauege5a6h63yoqmlwwpu4v45val2ffvbba74ffybmrekwlohrci/",
+      "token_website": "ipfs://bafkreigauege5a6h63yoqmlwwpu4v45val2ffvbba74ffybmrekwlohrci/",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
+      "name": "PunksKoin",
+      "symbol": "PUNKSK",
+      "description": "PunksKoin is an innovative cryptocurrency that is allocated each month for the owners of the Koinos Punks and Koinos CyborgPunks NFT. Get your punk and get a steady supply of PunksKoin each month until all the crypto has been allocated to the NFT holders. PunksKoin has a fair launch with 0% for Founders, 0% Royalties, and 0% Fees and 100& allocated to the NFT holders.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1Q9o3uTa6L9XMFeUM5yfZyYuyGxn1ai2gx.png",
+      "address": "1Q9o3uTa6L9XMFeUM5yfZyYuyGxn1ai2gx",
+      "allowance": true,
+      "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
     }
