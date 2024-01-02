@@ -2,7 +2,7 @@
 name: Token listing
 about: Request the listing of a token
 title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
-labels: token listing request
+labels: listing
 assignees: ''
 ---
 
