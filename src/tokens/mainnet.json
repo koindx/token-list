@@ -144,6 +144,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Koin Ogas",
+      "symbol": "OGAS",
+      "description": "Welcome to Koin Ogas (OGAS) - a fun, meme-centric token with zero gas fees, embodying Koinos blockchain's spirit. It's more than a token; it's a movement.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/143CLkKmfqa6trCbjxDMKojjeLq2q4RGD8.png",
+      "address": "143CLkKmfqa6trCbjxDMKojjeLq2q4RGD8",
+      "allowance": true,
+      "token_website": "https://twitter.com/KoinOgas",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
