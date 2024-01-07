@@ -8,7 +8,7 @@ Please read guidelines for submitting your application for a token listing.
 
 ### Criteria
 
-- New tokens will be accepted on case by case basis. Please contact KoinDX team via discord.
+- New tokens will be accepted on case by case basis. Please contact KoinDX team via discord or telegram.
 - Token should have established liquidity, a good number of liquidity providers
 
 Collaboration with KoinDX, via any of the following:
@@ -24,4 +24,4 @@ Note filing out the form does not guarantee addition to the default token list. 
 
 ## Any more questions?
 
-Come and visit us on discord at [discord.koindx.com](https://discord.koindx.com)
+Come and visit us on discord at [discord.koindx.com](https://discord.koindx.com) or on telegram at [t.me/koindx](https://t.me/koindx)
