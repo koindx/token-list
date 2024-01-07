@@ -14,7 +14,7 @@ Please read guidelines for submitting your application for a token listing.
 Collaboration with KoinDX, via any of the following:
 
 - Purchase of the listing package, or
-- Token is funded by KoinDX DAO
+- Token is funded by KoinDX DAO.
 
 Please fill out the [Listing Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeCVocPYXL9QJ8UgDXI1Y0ZFRBxwrdoorXUrHuaPjB6w-ZZYA/viewform?usp=sf_link) if your project meets all the relevant criteria.
 
