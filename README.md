@@ -1,41 +1,27 @@
-# Request a token listing on KoinDX
+# Token List
 
-Please create an issue with the help of our template, to apply for a KoinDX token listing.
+The official default token list of KoinDX.
 
-Be aware, not every requested token will get listed on KoinDX.
+## How to add your Token
 
-Make sure to provide the following information. 
-```
-Token Name: 
+Please read guidelines for submitting your application for a token listing.
 
-Token Network:
+### Criteria
 
-Token Symbol: 
+- New tokens will be accepted on case by case basis. Please contact KoinDX team via discord.
+- Token should have established liquidity, a good number of liquidity providers
 
-Token Description: 
+Collaboration with KoinDX, via any of the following:
 
-Token Decimals: 
+- Purchase of the listing package, or
+- Token is funded by KoinDX DAO.
 
-Token Address: 
-
-Has Allowances:
-
-Contract Repository: 
-
-Token Logo png:
-
-Token/Project website:
-
-Token Coingecko ID:
-
-Token Coinmarketcap ID
-
-Token Audit:
-```
-
-Official URL
-https://tokens.koindx.com
+Please fill out the [Listing Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeCVocPYXL9QJ8UgDXI1Y0ZFRBxwrdoorXUrHuaPjB6w-ZZYA/viewform?usp=sf_link) if your project meets all the relevant criteria.
 
 ## Disclaimer
 
-Note filing an issue does not guarantee addition to this default token list. We do not review token addition requests in any particular order, and we do not guarantee that we will review your request to add the token to the default list.
+Note filing out the form does not guarantee addition to the default token list. We do not review token addition requests in any particular order, and we do not guarantee that we will review your request to add the token to the default list.
+
+## Any more questions?
+
+Come and visit us on discord at [discord.koindx.com](https://discord.koindx.com)
