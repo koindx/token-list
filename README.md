@@ -24,4 +24,4 @@ Note filing out the form does not guarantee addition to the default token list. 
 
 ## Any more questions?
 
-Come and visit us on discord at https://discord.koindx.com
+Come and visit us on discord at [discord.koindx.com](https://discord.koindx.com)
