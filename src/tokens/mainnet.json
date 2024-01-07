@@ -156,6 +156,18 @@
       "token_website": "https://twitter.com/KoinOgas",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Egg",
+      "symbol": "EGG",
+      "description": "A satirical project with a fixed supply of 1, meant to spurn discussion on the absurdities of most crypto tokenomics and valuations. A true tokenized art piece.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1AFMFjbSzpnK58xbwt6cyAnhLF77qm5FeC.png",
+      "address": "1AFMFjbSzpnK58xbwt6cyAnhLF77qm5FeC",
+      "allowance": true,
+      "token_website": "https://twitter.com/KoinOgas",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
