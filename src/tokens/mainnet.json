@@ -168,6 +168,18 @@
       "token_website": "https://1egg.art",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Dogekoinos",
+      "symbol": "DGK",
+      "description": "Memecoin for the love of shiba inus , its mainly done for fun and to encourage users activity on the koinos ecosystem. A presale was made on koincity for the launch of DGK.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1KU6cUY3TwYQzTRHakUcviiYmxNepRKkhQ.png",
+      "address": "1KU6cUY3TwYQzTRHakUcviiYmxNepRKkhQ",
+      "allowance": true,
+      "token_website": "https://dogekoin.app",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
