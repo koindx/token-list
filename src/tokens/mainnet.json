@@ -180,6 +180,19 @@
       "token_website": "https://dogekoin.app",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "KroKoin",
+      "symbol": "KROK",
+      "description": "KroKoin ($KROK) is the first reflection token on Koinos. It features a 5% tax on each transaction. Half of the supply was burnt at the start of the project. Hence, 2.5% is burnt at each transaction and the remaining 2.5% are distributed proportionnally between holders.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1KroK111wVj8QU3ydFHqPpNyVtfgV8n755.png",
+      "address": "1KroK111wVj8QU3ydFHqPpNyVtfgV8n755",
+      "allowance": true,
+      "token_website": "https://krokoin.com",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
+    
   ]
 }
