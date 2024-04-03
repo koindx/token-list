@@ -192,7 +192,18 @@
       "token_website": "https://krokoin.com",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Koinos Garden",
+      "symbol": "KG",
+      "description": "Koinos Garden is a collection of 1000 unique Goat NFTs coexisting on the Koinos blockchain granting access to an investment DAO.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP.png",
+      "address": "1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP",
+      "allowance": true,
+      "token_website": "https://koinosgarden.com",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
-    
   ]
 }
