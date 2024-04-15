@@ -204,6 +204,18 @@
       "token_website": "https://koinosgarden.com",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Maine Koon",
+      "symbol": "MEOW",
+      "description": "Maine Koon is the purr-fectly unique cat-themed Meme Token that's clawing its way into the future. This token isn't just another cat in the crypto alley—it comes with frisky airdrops and purr-lific staking rewards. Along with the Maine Koon Token, we're unleashing a litter of 3,000 unique Maine Koon NFTs on the gas-free Koinos blockchain, promising a hiss-terically vibrant community.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1EoGf6wPB632JudW1P12aSByLJdeNajWoU.png",
+      "address": "1EoGf6wPB632JudW1P12aSByLJdeNajWoU",
+      "allowance": true,
+      "token_website": "https://mainekoon.info",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
