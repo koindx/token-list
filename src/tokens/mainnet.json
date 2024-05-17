@@ -26,7 +26,7 @@
       "coinmarketcap_id": ""
     },
     {
-      "name": "Ethereum",
+      "name": "Chainge ETH",
       "symbol": "ETH",
       "description": "Wrapped Ethereum via chainge finance.",
       "decimals": "8",
@@ -38,7 +38,7 @@
       "coinmarketcap_id": ""
     },
     {
-      "name": "Tether USD",
+      "name": "Chainge USDT",
       "symbol": "USDT",
       "description": "Wrapped Tether USD via chainge finance.",
       "decimals": "8",
