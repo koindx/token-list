@@ -252,6 +252,18 @@
       "token_website": "https://stealthirun.github.io/Whitepaper",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Bald Levine",
+      "symbol": "BALD",
+      "description": "Bald Levine intends to be the most iconic memecoin in Koinos ecosystem. It features a bald version of Koinos co-founder Andrew Levine.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/16aD3Ax1kC8WKAsNevAfwyEAzoYL9T7AYs.png",
+      "address": "16aD3Ax1kC8WKAsNevAfwyEAzoYL9T7AYs",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
