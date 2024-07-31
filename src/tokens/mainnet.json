@@ -216,6 +216,42 @@
       "token_website": "https://mainekoon.info",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "GAS FEEs",
+      "symbol": "GAS",
+      "description": "Gas Fees is a cryptocurrency meme token on the Koinos blockchain with 0 fees. We poke fun at blockchains like Ethereum and other gas fee based chains, offering a fee-free alternative for users to enjoy.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1LntV8aVpngLCYLTZuHuuevvUZcBhVPegf.png",
+      "address": "1LntV8aVpngLCYLTZuHuuevvUZcBhVPegf",
+      "allowance": true,
+      "token_website": "https://koinosgasfees.com",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
+      "name": "Real World Assets",
+      "symbol": "RWA",
+      "description": "Fair launched, no presale, 20% of supply added as initial project liquidity. RWA paired with $UP, $KOIN, $PUNKSK. 80% of supply farmed through liquidity staking over 6.5 years. Tokens are used for various stake to earn opportunities and will offer new use cases in support of the RWA NFT collection.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1H1tWd95HvL2wT25qpXrVMosGdGUNPRFiA.png",
+      "address": "1H1tWd95HvL2wT25qpXrVMosGdGUNPRFiA",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
+      "name": "Stealth I RUN",
+      "symbol": "RUN",
+      "description": "Token launched with 70% of supply added to liquidity and 30% of supply available through stake to earn on Koincity over 12 years. LP tokens from launch are available to farm over a 3 year period using the RUN token, also on Koincity. The RUN token will be used to fund the purchase of various real estate properties around the globe, as market cap milestones are reached.  Individuals will then be able to use their RUN tokens to cover the cost of staying at any of our rental properties. Token holders will also have voting power to influence the locations of real estate purchased that we will then rent out.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/18JRrBdnNqQ99faV6sn6Un1MbvU5sZWgzf.png",
+      "address": "18JRrBdnNqQ99faV6sn6Un1MbvU5sZWgzf",
+      "allowance": true,
+      "token_website": "https://stealthirun.github.io/Whitepaper",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
