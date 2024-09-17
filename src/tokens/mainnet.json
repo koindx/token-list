@@ -276,6 +276,30 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Titcoin",
+      "symbol": "TITCOIN",
+      "description": "Titcoin is based on Satoshi Nakamoto's (creator of Bitcoin) vision to name his token Titcoin instead of the now so popular Bitcoin. His intention was to get more attention for his then not so well-known token. And also we are just in love with tits! All sorts and sizes. We are absolutely crazy about them. We just can't get enough of them. But we can do more than just worshipping them.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1CXt6cUVQ26gRWdXLFPDhL1TvUNR5vp2JB.png",
+      "address": "1CXt6cUVQ26gRWdXLFPDhL1TvUNR5vp2JB",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
+      "name": "Rich Duck",
+      "symbol": "QUACK",
+      "description": "Rich Duck Token (QUACK), a thrilling cryptocurrency inspired by Scrooge McDuck, the richest duck in the world! QUACK unites fans of classic comics, crypto enthusiasts, and adventure seekers in a journey of wealth and discovery. Capture the essence of Scrooge’s rise from humble beginnings to fortune through hard work, cleverness, and luck.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/19AXVkzeetLUgQx7xoZnoJoZ4JnezDeT3q.png",
+      "address": "19AXVkzeetLUgQx7xoZnoJoZ4JnezDeT3q",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
