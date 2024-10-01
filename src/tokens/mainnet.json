@@ -300,6 +300,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "52KPH",
+      "symbol": "52KPH",
+      "description": "52KPH Fan Token.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/169UynEtFWxuvk2EX6mPphZutYDxy1NAjV.png",
+      "address": "169UynEtFWxuvk2EX6mPphZutYDxy1NAjV",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
