@@ -312,6 +312,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Faith",
+      "symbol": "FAITH",
+      "description": "The $FAITH token is the main currency of Lords Forsaken, used for in-game transactions, rewards, and NFT card packs. It powers player engagement and supports DeFi liquidity within the game’s ecosystem.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/14Dj8RjYqy8hQ1GarrJGGeaGu6AuCwxcgy.png",
+      "address": "14Dj8RjYqy8hQ1GarrJGGeaGu6AuCwxcgy",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
