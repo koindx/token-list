@@ -324,6 +324,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Lords Forsaken Packs",
+      "symbol": "PACKS",
+      "description": "Unopened packs of cards for Lords Forsaken",
+      "decimals": "0",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1A4Nv58odXgVK91bFHgCFWPgiu7kfsxdVY.png",
+      "address": "1A4Nv58odXgVK91bFHgCFWPgiu7kfsxdVY",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
