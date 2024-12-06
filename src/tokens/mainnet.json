@@ -30,7 +30,7 @@
       "symbol": "KOINDX",
       "description": "Native token of koindx.",
       "decimals": "8",
-      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1DdERbxQte8XCwLQT8KVDyq1NJo5EGhpdg.jpg",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1DdERbxQte8XCwLQT8KVDyq1NJo5EGhpdg.png",
       "address": "1DdERbxQte8XCwLQT8KVDyq1NJo5EGhpdg",
       "allowance": true,
       "token_website": "https://koindx.com",
