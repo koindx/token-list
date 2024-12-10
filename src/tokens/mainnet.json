@@ -360,6 +360,30 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Trumpkat",
+      "symbol": "Kat",
+      "description": "Airdrop Proof of concept Token",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1HpqHhCQPqeJf15MwAGF6RmhJ9aet8Hd5k.png",
+      "address": "1HpqHhCQPqeJf15MwAGF6RmhJ9aet8Hd5k",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
+    },
+    {
+      "name": "Snake Oil",
+      "symbol": "Snake",
+      "description": "Airdrop Token ( this will continue to future users with decreasing supply of airdrop also get paired to a lot of other Tokens). The idea behind is to show the Power of Koinos Blockchain in a usecase of rewarding the people and showcase it to devs and users outside of the Koinos ecosystem.Its also paired to Trump kat and other coins on Koinos. It will continue to get more pairs and a deeper ecosystem.",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1MKWW9dJXVUcJU9PHF1zDnzRTFQJ6q4NKy.png",
+      "address": "1MKWW9dJXVUcJU9PHF1zDnzRTFQJ6q4NKy",
+      "allowance": true,
+      "token_website": "",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
