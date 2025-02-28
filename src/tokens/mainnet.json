@@ -384,6 +384,18 @@
       "token_website": "",
       "coingecko_id": "",
       "coinmarketcap_id": ""
+    },
+    {
+      "name": "Frenchie",
+      "symbol": "FR",
+      "description": "Dog meme token that will be part of the NFT breeding game",
+      "decimals": "8",
+      "logoURI": "https://raw.githubusercontent.com/koindx/token-list/main/src/images/mainnet/1C4pGZS9oBBLs4vCTehGNBa7StXqYFRc16.png",
+      "address": "1C4pGZS9oBBLs4vCTehGNBa7StXqYFRc16",
+      "allowance": true,
+      "token_website": "https://frenchiekoin.com/",
+      "coingecko_id": "",
+      "coinmarketcap_id": ""
     }
   ]
 }
